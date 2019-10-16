@@ -1,0 +1,11 @@
+Integrantes:
+- Gabriel Sousa
+- Lucas Mota
+- Vinicius Cavalcante 
+
+Descrição: 
+
+Desenvolvimento de um dispositivo de comunicação cliente-garçom, para que haja um rápido atendimento. 
+Consiste em fazer dois dispositivos que tenham uma comunicação entre si.
+Cada mesa do restaurante terá um dispositivo de chamada com um endereçamento único mantendo a conectividade 
+com o dispositivo do garçom, para que o mesmo vá atender o cliente.
